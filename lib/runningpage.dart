@@ -9,7 +9,7 @@ import 'package:image/image.dart' as imglib;
 
 class runningpage extends StatefulWidget {
   String? ph;
-  String? dr_path;///
+  String? dr_path;
 
   runningpage(this.ph, this.dr_path);
 
