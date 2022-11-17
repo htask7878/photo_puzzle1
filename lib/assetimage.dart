@@ -44,7 +44,7 @@ class _imagepageState extends State<imagepage> {
                   image: AssetImage("myimage/${ph[index]}"), fit: BoxFit.fill),
             ),
           );
-        },//
+        },///
       ),
     );
   }
