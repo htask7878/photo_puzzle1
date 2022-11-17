@@ -65,7 +65,7 @@ class _firstState extends State<first> {
                                 Navigator.push(context, MaterialPageRoute(builder: (context) {
                                   return runningpage(null,dr_path);
                                 },));
-///
+
                               },
                               child: Text("Gallery")),
                           ElevatedButton(
